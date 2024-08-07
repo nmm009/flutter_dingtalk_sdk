@@ -1,3 +1,12 @@
+## 1.0.3
+* fix ios  name error
+
+## 1.0.2
+* fix main class name error
+
+## 1.0.1
+* fix kotlin-gradle-plugin update
+
 ## 1.0.0+3
 * fix iOS
 

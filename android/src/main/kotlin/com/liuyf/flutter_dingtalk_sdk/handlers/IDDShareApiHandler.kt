@@ -1,4 +1,4 @@
-package cn.yymm.flu_dingtalk.handlers
+package com.liuyf.flutter_dingtalk_sdk.handlers
 
 import android.content.Context
 import android.content.Intent
@@ -7,7 +7,7 @@ import com.android.dingtalk.share.ddsharemodule.DDShareApiFactory
 import com.android.dingtalk.share.ddsharemodule.IDDAPIEventHandler
 import com.android.dingtalk.share.ddsharemodule.IDDShareApi
 import com.android.dingtalk.share.ddsharemodule.message.*
-import cn.yymm.flu_dingtalk.constant.CallResult
+import com.liuyf.flutter_dingtalk_sdk.constant.CallResult
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
 import java.io.File

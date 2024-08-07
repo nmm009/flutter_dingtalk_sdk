@@ -1,6 +1,6 @@
-# flu_dingtalk_example
+# flutter_dingtalk_sdk_example
 
-Demonstrates how to use the flu_dingtalk plugin.
+Demonstrates how to use the flutter_dingtalk_sdk plugin.
 
 ## Getting Started
 

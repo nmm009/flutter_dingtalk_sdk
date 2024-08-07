@@ -1,4 +1,4 @@
-package cn.yymm.flu_dingtalk.constant
+package com.liuyf.flutter_dingtalk_sdk.constant
 
 object Methods {
     const val REGISTER_APP = "registerApp";

@@ -1,17 +1,17 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint flu_dingtalk.podspec` to validate before publishing.
+# Run `pod lib lint flutter_dingtalk_sdk.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flu_dingtalk'
+  s.name             = 'flutter_dingtalk_sdk'
   s.version          = '0.0.1'
   s.summary          = 'dingtalk SDK flutter plugin.'
   s.description      = <<-DESC
 dingtalk SDK flutter plugin.
                        DESC
-  s.homepage         = 'https://github.com/yangyu92/flu_dingtalk'
+  s.homepage         = 'https://github.com/saperliu/flutter_dingtalk_sdk'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'yangyu' => 'yang_yu92@foxmail.com' }
+  s.author           = { 'liuyf' => 'saperliu@163.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'

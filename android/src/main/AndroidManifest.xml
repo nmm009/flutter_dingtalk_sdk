@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="cn.yymm.flu_dingtalk">
+    package="com.liuyf.flutter_dingtalk_sdk">
     <application>
         <activity
             android:name=".ddshare.DDShareActivity"
@@ -11,7 +11,7 @@
             android:name="${applicationId}.ddshare.DDShareActivity"
             android:exported="true"
             android:launchMode="singleTask"
-            android:targetActivity="cn.yymm.flu_dingtalk.ddshare.DDShareActivity"
+            android:targetActivity="com.liuyf.flutter_dingtalk_sdk.ddshare.DDShareActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />

@@ -1,4 +1,4 @@
-package cn.yymm.flu_dingtalk.handlers
+package com.liuyf.flutter_dingtalk_sdk.handlers
 
 import android.util.Log
 import com.android.dingtalk.share.ddsharemodule.ShareConstant

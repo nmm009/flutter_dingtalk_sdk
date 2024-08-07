@@ -1,9 +1,9 @@
-package cn.yymm.flu_dingtalk
+package com.liuyf.flutter_dingtalk_sdk
 
 import androidx.annotation.NonNull
-import cn.yymm.flu_dingtalk.constant.Methods
-import cn.yymm.flu_dingtalk.handlers.IDDShareApiHandler
-import cn.yymm.flu_dingtalk.handlers.IDDShareResponseHandler
+import com.liuyf.flutter_dingtalk_sdk.constant.Methods
+import com.liuyf.flutter_dingtalk_sdk.handlers.IDDShareApiHandler
+import com.liuyf.flutter_dingtalk_sdk.handlers.IDDShareResponseHandler
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware

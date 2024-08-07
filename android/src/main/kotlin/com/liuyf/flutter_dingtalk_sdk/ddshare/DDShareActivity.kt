@@ -1,4 +1,4 @@
-package cn.yymm.flu_dingtalk.ddshare
+package com.liuyf.flutter_dingtalk_sdk.ddshare
 
 import android.app.Activity
 import android.os.Bundle
@@ -6,8 +6,8 @@ import android.util.Log
 import com.android.dingtalk.share.ddsharemodule.IDDAPIEventHandler
 import com.android.dingtalk.share.ddsharemodule.message.BaseReq
 import com.android.dingtalk.share.ddsharemodule.message.BaseResp
-import cn.yymm.flu_dingtalk.handlers.IDDShareApiHandler
-import cn.yymm.flu_dingtalk.handlers.IDDShareResponseHandler
+import com.liuyf.flutter_dingtalk_sdk.handlers.IDDShareApiHandler
+import com.liuyf.flutter_dingtalk_sdk.handlers.IDDShareResponseHandler
 import java.lang.Exception
 
 open class DDShareActivity :Activity(), IDDAPIEventHandler{

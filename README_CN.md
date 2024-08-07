@@ -1,20 +1,20 @@
-# flu_dingtalk
+# flutter_dingtalk_sdk
 
-![pub package](https://img.shields.io/pub/v/flu_dingtalk.svg)
+![pub package](https://img.shields.io/pub/v/flutter_dingtalk_sdk.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 
-## 什么是flu_dingtalk
+## 什么是flutter_dingtalk_sdk
 
-`flu_dingtalk` 是一个[钉钉SDK](https://developers.dingtalk.com/document/mobile-app-guide)插件，它允许开发者调用
+`flutter_dingtalk_sdk` 是一个[钉钉SDK](https://developers.dingtalk.com/document/mobile-app-guide)插件，它允许开发者调用
 [钉钉原生SDK](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Resource_Center_Homepage.html).
 
 ## 安装
 
-在`pubspec.yaml` 文件中添加`flu_dingtalk`依赖:
+在`pubspec.yaml` 文件中添加`flutter_dingtalk_sdk`依赖:
 
 ```yaml
 dependencies:
-  flu_dingtalk: ^1.0.0+2
+ flutter_dingtalk_sdk: ^1.0.3
 ```
 
 ## android
@@ -64,12 +64,12 @@ Tools • Dart 2.13.3
 
 ## 准备
 
-`flu_dingtalk` 可以做很多工作但不是所有. 在集成之前，最好读一下[官方文档](https://developers.dingtalk.com/document/mobile-app-guide).  
+`flutter_dingtalk_sdk` 可以做很多工作但不是所有. 在集成之前，最好读一下[官方文档](https://developers.dingtalk.com/document/mobile-app-guide).  
  然后你才知道怎么生成签名，怎么使用universal link以及怎么添加URL schema等.
 
 ## 注册钉钉
 
-通过 `flu_dingtalk` 注册钉钉SDK.
+通过 `flutter_dingtalk_sdk` 注册钉钉SDK.
 
 ```dart
 FluDingtalk.registerApp("dingu6xwfjbghhqtwwzu");

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flu_dingtalk/flu_dingtalk.dart';
+import 'package:flutter_dingtalk_sdk/flutter_dingtalk_sdk.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('flu_dingtalk');

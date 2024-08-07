@@ -1,9 +1,9 @@
-import 'package:flu_dingtalk/response/dingtalk_response.dart';
+import 'package:flutter_dingtalk_sdk/response/dingtalk_response.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flu_dingtalk/flu_dingtalk.dart';
+import 'package:flutter_dingtalk_sdk/flutter_dingtalk_sdk.dart';
 
 void main() {
   runApp(MyApp());

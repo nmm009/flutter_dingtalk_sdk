@@ -1,10 +1,10 @@
-name: flu_dingtalk
+name: flutter_dingtalk_sdk
 description: dingtalk SDK flutter plugin. Dingtalk achieving the function of login and sharing.
-version: 1.0.0+3
-homepage: https://github.com/yangyu92/flu_dingtalk
+version: 1.0.3
+homepage: https://github.com/saperliu/flutter_dingtalk_sdk
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
@@ -27,7 +27,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: cn.yymm.flu_dingtalk
+        package: com.liuyf.flutter_dingtalk_sdk
         pluginClass: FluDingtalkPlugin
       ios:
         pluginClass: FluDingtalkPlugin

@@ -1,22 +1,22 @@
-# flu_dingtalk
+# flutter_dingtalk_sdk
 
-![pub package](https://img.shields.io/pub/v/flu_dingtalk.svg)
+![pub package](https://img.shields.io/pub/v/flutter_dingtalk_sdk.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 
-## What is the flu_dingtalk
+## What is the flutter_dingtalk_sdk
 
-`flu_dingtalk` Is a [Dingtalk nailing SDK](https://developers.dingtalk.com/document/mobile-app-guide) plug-in, which allows developers to invoke
+`flutter_dingtalk_sdk` Is a [Dingtalk nailing SDK](https://developers.dingtalk.com/document/mobile-app-guide) plug-in, which allows developers to invoke
 [Nail the native SDK](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Resource_Center_Homepage.html).
 
 [中文请移步此处](./README_CN.md)
 
 ## Installation
 
-'flu_dingtalk' dependency to the 'pubspec.yaml' file:
+'flutter_dingtalk_sdk' dependency to the 'pubspec.yaml' file:
 
 ```yaml
 dependencies:
-  flu_dingtalk: ^1.0.0+2
+  flutter_dingtalk_sdk: ^1.0.3
 ```
 
 ## android
@@ -65,7 +65,7 @@ IOS 9 system policy update restricts HTTP protocol access. In addition, applicat
 
 ## Prepare
 
-`flu_dingtalk` You can do a lot of work but not everything. Before integrating, it's a good idea to read the [official documentation](https://developers.dingtalk.com/document/mobile-app-guide).  
+`flutter_dingtalk_sdk` You can do a lot of work but not everything. Before integrating, it's a good idea to read the [official documentation](https://developers.dingtalk.com/document/mobile-app-guide).  
 
 ## Register WxAPI
 
