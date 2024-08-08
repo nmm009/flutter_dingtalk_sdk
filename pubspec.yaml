@@ -1,6 +1,6 @@
 name: flutter_dingtalk_sdk
 description: dingtalk SDK flutter plugin. Dingtalk achieving the function of login and sharing.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/saperliu/flutter_dingtalk_sdk
 
 environment:

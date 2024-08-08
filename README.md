@@ -16,7 +16,7 @@
 
 ```yaml
 dependencies:
-  flutter_dingtalk_sdk: ^1.0.3
+  flutter_dingtalk_sdk: ^1.0.4
 ```
 
 ## android
